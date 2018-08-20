@@ -1,6 +1,5 @@
 # ScreenObjectTestHelper
 
-[![CI Status](https://img.shields.io/travis/Demian Tejo/ScreenObjectTestHelper.svg?style=flat)](https://travis-ci.org/Demian Tejo/ScreenObjectTestHelper)
 [![Version](https://img.shields.io/cocoapods/v/ScreenObjectTestHelper.svg?style=flat)](https://cocoapods.org/pods/ScreenObjectTestHelper)
 [![License](https://img.shields.io/cocoapods/l/ScreenObjectTestHelper.svg?style=flat)](https://cocoapods.org/pods/ScreenObjectTestHelper)
 [![Platform](https://img.shields.io/cocoapods/p/ScreenObjectTestHelper.svg?style=flat)](https://cocoapods.org/pods/ScreenObjectTestHelper)
