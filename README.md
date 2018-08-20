@@ -21,7 +21,7 @@ pod 'ScreenObjectTestHelper'
 
 ## Author
 
-Demian Tejo, demian.tejo+github@gmail.com
+Demian Tejo, demian.tejo@gmail.com
 
 ## License
 
