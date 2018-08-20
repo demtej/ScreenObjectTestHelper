@@ -1,0 +1,16 @@
+PODS:
+  - ScreenObjectTestHelper (0.1.0)
+
+DEPENDENCIES:
+  - ScreenObjectTestHelper (from `../`)
+
+EXTERNAL SOURCES:
+  ScreenObjectTestHelper:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ScreenObjectTestHelper: a4465fb2a70718f0ff588667c69dd503051d947d
+
+PODFILE CHECKSUM: 95ccce8d16e1428000d714f89953e708a505f1e4
+
+COCOAPODS: 1.4.0

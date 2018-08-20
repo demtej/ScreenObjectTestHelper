@@ -1,0 +1,6 @@
+framework module ScreenObjectTestHelper {
+  umbrella header "ScreenObjectTestHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}

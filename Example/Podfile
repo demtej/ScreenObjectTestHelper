@@ -1,11 +1,5 @@
 use_frameworks!
 
-target 'ScreenObjectTestHelper_Example' do
+target 'ScreenObjectTestHelper_ExampleUITests' do
   pod 'ScreenObjectTestHelper', :path => '../'
-
-  target 'ScreenObjectTestHelper_Tests' do
-    inherit! :search_paths
-
-    
-  end
 end
